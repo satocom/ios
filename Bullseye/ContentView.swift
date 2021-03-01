@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Bullseye
 //
-//  Created by Satoko Omatsu on 2021/03/01.
+//  Created by satocom on 2021/03/01.
 //
 
 import SwiftUI
